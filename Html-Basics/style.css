@@ -1,0 +1,25 @@
+.container a {
+    color: goldenrod;
+    text-decoration: none;
+    cursor: pointer;
+    /* border: 1px solid black; */
+    display: inline-block;
+}
+
+.container a:hover {
+    color: red;
+    /* background-color: black; */
+}
+
+.container ul {
+    list-style-type: none;
+    padding: 10px 10px;
+    /* border: 1px solid black; */
+}
+
+.container ul li {
+    background-color: lightblue;
+    /* border-top: 1px solid black; */
+    text-align: center;
+    border-top: 1px solid black;
+}
